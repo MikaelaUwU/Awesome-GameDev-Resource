@@ -17,5 +17,5 @@ Game Assests:
 Game Audio:
 1. [Beast Testbit](https://beast.testbit.eu/) | Beast is a digital synthesizer and music creation system, released as Free Software under the GNU LGPL-2.1+.
 2. [Free SFX](https://freesound.org/) | Collaborative database of creative-commons licensed sound for musicians and sound lovers.
-3. [SoundBible]([https://freepd.com/](http://soundbible.com/)) | SoundBible.com offers free and royalty free sound effects and clips for download in either wav or mp3 format.
+3. [SoundBible](http://soundbible.com/) | SoundBible.com offers free and royalty free sound effects and clips for download in either wav or mp3 format.
 
