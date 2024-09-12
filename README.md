@@ -1,6 +1,6 @@
 # Awesome-GameDev-Resource
 
-Resources that are helpful in the development of games! (Mostly Free Resources)
+Resources that are helpful in the development of games!
 Links plus description from their page.
 
 
