@@ -3,8 +3,9 @@
 Resources that are helpful in the development of games!
 Links plus description from their page.
 
+## Game Development Tools
 
-Engines/Frameworks:
+### Engines/Frameworks:
 1. [Excalibur.js](https://excaliburjs.com/) | Free and Open Source TypeScript 2D game engine for the web.
 Excalibur.js is an open-source, lightweight game engine designed for building 2D games using JavaScript and TypeScript. It provides a set of tools and features that simplify game development, particularly for web-based games, while remaining easy to learn for beginners and powerful enough for more complex projects.
 
@@ -17,8 +18,7 @@ Cocos Creator is a comprehensive game development platform designed primarily fo
 4. [PixiJS](https://pixijs.com/) | Free and Open Source to create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 PixiJS is a 2D rendering engine for the web, designed to create fast and interactive graphics in HTML5 applications. It's particularly known for its high performance, cross-platform compatibility, and ease of use. It uses WebGL (or falls back to HTML5 Canvas) to render rich visuals and animations, making it popular for game development, interactive web apps, and creative visual projects.
 
-
-Assests: 
+### Assests: 
 1. [PolyHaven](https://polyhaven.com/) | Public asset library for visual effects artists and game designers, providing useful high quality 3D assets in an easily obtainable manner.
 Poly Haven is an online platform that provides high-quality, free assets for 3D artists, designers, and developers. It focuses on making professional-grade resources accessible to everyone, without any cost or restrictions. All assets on Poly Haven are licensed as CC0 (public domain), meaning they can be used freely for personal, commercial, or educational projects without attribution.
 
@@ -31,8 +31,7 @@ SpriteLib is a free collection of 2D game assets designed to help indie develope
 4. [Poly Pizza](https://poly.pizza/) | Download thousands of low poly 3D models for free. No login required. Ready for AR/VR, Unity, Unreal or Godot.
 Poly Pizza is an online platform that offers a vast library of free, low-poly 3D models for use in game development, animation, virtual reality (VR), and other 3D projects. The platform is designed to provide creators with simple, optimized 3D assets that are lightweight and visually appealing for various real-time applications.
 
-
-Audio:
+### Audio:
 1. [Beast Testbit](https://beast.testbit.eu/) | Beast is a digital synthesizer and music creation system, released as Free Software under the GNU LGPL-2.1+.
 Beast (Better Audio Synthesizer) is an open-source music synthesizer and composer, designed for creating, editing, and playing audio. It focuses on advanced synthesis, audio processing, and a modular composition environment. Beast provides a set of tools, including:
 
@@ -42,4 +41,8 @@ Freesound is an online platform that hosts a massive collection of free sound sa
 3. [SoundBible](http://soundbible.com/) | SoundBible.com offers free and royalty free sound effects and clips for download in either wav or mp3 format.
 SoundBible is a website offering a variety of free sound effects and royalty-free audio clips. It provides tools and resources for users to download and use sound effects for various projects, including multimedia, video production, and presentations. The site categorizes sounds into different types, such as nature, human, and mechanical sounds, making it easier for users to find specific audio clips they need. Additionally, SoundBible often allows users to preview sounds before downloading them.
 
+## Game Development Career Pathways
+
+
+## Common Game Industry Issues
 
