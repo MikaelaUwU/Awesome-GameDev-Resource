@@ -72,10 +72,15 @@ Roles: UI Designer, UX Researcher, Interaction Designer.
 Bring the game design to life through code, handling both gameplay systems and backend functionality. Programmers ensure the game is optimized, responsive, and technically robust.
 
 Roles:
-1. Graphics Programming | Handles rendering and visual optimizations, ensuring smooth frame rates and stunning graphics. Graphics programmers develop shaders, lighting, and visual effects for a polished presentation.
-2. AI Programming | Designs intelligent behaviors for NPCs, such as pathfinding, combat tactics, and decision-making. AI programmers aim to create characters that react dynamically and realistically to player actions.
-3. VR/AR Programming | Specializes in creating immersive experiences for virtual and augmented reality platforms. VR/AR programmers optimize performance for headsets and develop intuitive controls for 3D spaces.
-4. Tools Programming | Creates development tools like level editors, debugging software, or asset management systems. Tools programmers enhance efficiency across teams, allowing them to focus on creative and technical tasks.
-5. Network Programming | Manages online multiplayer systems, including matchmaking, data synchronization, and latency handling. Network programmers ensure smooth online interactions and minimize connectivity issues.
+1. Graphics Programming
+   - Handles rendering and visual optimizations, ensuring smooth frame rates and stunning graphics. Graphics programmers develop shaders, lighting, and visual effects for a polished presentation.
+2. AI Programming
+  - Designs intelligent behaviors for NPCs, such as pathfinding, combat tactics, and decision-making. AI programmers aim to create characters that react dynamically and realistically to player actions.
+3. VR/AR Programming
+  - Specializes in creating immersive experiences for virtual and augmented reality platforms. VR/AR programmers optimize performance for headsets and develop intuitive controls for 3D spaces.
+4. Tools Programming
+  - Creates development tools like level editors, debugging software, or asset management systems. Tools programmers enhance efficiency across teams, allowing them to focus on creative and technical tasks.
+5. Network Programming
+  - Manages online multiplayer systems, including matchmaking, data synchronization, and latency handling. Network programmers ensure smooth online interactions and minimize connectivity issues.
 
 
