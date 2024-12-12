@@ -44,43 +44,43 @@ SoundBible is a website offering a variety of free sound effects and royalty-fre
 ## Game Development Career Pathways
 
 ### Game Design:
-Involves brainstorming and creating the concepts and mechanics that define the game. Game designers ensure the balance between challenge and engagement, crafting a memorable player experience.
+  - Involves brainstorming and creating the concepts and mechanics that define the game. Game designers ensure the balance between challenge and engagement, crafting a memorable player experience.
 
 Roles: Game Designer, Level Designer, Systems Designer, Narrative Designer.
 
 ### Art and Animation:
-Description: Focuses on creating the aesthetic and visual appeal of the game, including characters, environments, and props. Artists collaborate closely with designers to align visuals with the game's themes and tone.
+  - Focuses on creating the aesthetic and visual appeal of the game, including characters, environments, and props. Artists collaborate closely with designers to align visuals with the game's themes and tone.
 
 Roles: Character Artist, Environment Artist, Animator, Concept Artist.
 
 ### Audio Design:
-Description: Shapes the auditory experience, creating soundtracks, effects, and ambient noise to immerse players. Audio designers also ensure sound syncs perfectly with gameplay events and environments.
+  - Shapes the auditory experience, creating soundtracks, effects, and ambient noise to immerse players. Audio designers also ensure sound syncs perfectly with gameplay events and environments.
 
 Roles: Technical Artist, Shader Artist, VFX Artist.
 
 ### User Interface (UI) and User Experience (UX) Design:
-Designs the interface and ensures that players can easily interact with the game systems. UX designers focus on intuitive navigation and player satisfaction throughout the experience.
+  - Designs the interface and ensures that players can easily interact with the game systems. UX designers focus on intuitive navigation and player satisfaction throughout the experience.
 
 Roles: Sound Designer, Audio Engineer, Composer, Voice Director.
 
 ### Technical Artist:
-Acts as the bridge between creative art and technical programming, ensuring assets are optimized and functional. Technical artists troubleshoot visual issues and implement shaders and effects for stunning visuals.
+  - Acts as the bridge between creative art and technical programming, ensuring assets are optimized and functional. Technical artists troubleshoot visual issues and implement shaders and effects for stunning visuals.
 
 Roles: UI Designer, UX Researcher, Interaction Designer.
 
 ### Game Programming:
-Bring the game design to life through code, handling both gameplay systems and backend functionality. Programmers ensure the game is optimized, responsive, and technically robust.
+  - Bring the game design to life through code, handling both gameplay systems and backend functionality. Programmers ensure the game is optimized, responsive, and technically robust.
 
 Roles:
 1. Graphics Programming
    - Handles rendering and visual optimizations, ensuring smooth frame rates and stunning graphics. Graphics programmers develop shaders, lighting, and visual effects for a polished presentation.
 2. AI Programming
-  - Designs intelligent behaviors for NPCs, such as pathfinding, combat tactics, and decision-making. AI programmers aim to create characters that react dynamically and realistically to player actions.
+   - Designs intelligent behaviors for NPCs, such as pathfinding, combat tactics, and decision-making. AI programmers aim to create characters that react dynamically and realistically to player actions.
 3. VR/AR Programming
-  - Specializes in creating immersive experiences for virtual and augmented reality platforms. VR/AR programmers optimize performance for headsets and develop intuitive controls for 3D spaces.
+   - Specializes in creating immersive experiences for virtual and augmented reality platforms. VR/AR programmers optimize performance for headsets and develop intuitive controls for 3D spaces.
 4. Tools Programming
-  - Creates development tools like level editors, debugging software, or asset management systems. Tools programmers enhance efficiency across teams, allowing them to focus on creative and technical tasks.
+   - Creates development tools like level editors, debugging software, or asset management systems. Tools programmers enhance efficiency across teams, allowing them to focus on creative and technical tasks.
 5. Network Programming
-  - Manages online multiplayer systems, including matchmaking, data synchronization, and latency handling. Network programmers ensure smooth online interactions and minimize connectivity issues.
+   - Manages online multiplayer systems, including matchmaking, data synchronization, and latency handling. Network programmers ensure smooth online interactions and minimize connectivity issues.
 
 
