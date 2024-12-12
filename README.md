@@ -43,16 +43,26 @@ SoundBible is a website offering a variety of free sound effects and royalty-fre
 
 ## Game Development Career Pathways
 
-### Game Design
-Description: Involves brainstorming and creating the concepts and mechanics that define the game. Game designers ensure the balance between challenge and engagement, crafting a memorable player experience.
+### Game Design:
+Involves brainstorming and creating the concepts and mechanics that define the game. Game designers ensure the balance between challenge and engagement, crafting a memorable player experience.
 Roles: Game Designer, Level Designer, Systems Designer, Narrative Designer.
 
-### Game Design:
+### Art and Animation:
+Description: Focuses on creating the aesthetic and visual appeal of the game, including characters, environments, and props. Artists collaborate closely with designers to align visuals with the game's themes and tone.
+Roles: Character Artist, Environment Artist, Animator, Concept Artist.
 
-### Game Design:
+### Audio Design:
+Description: Shapes the auditory experience, creating soundtracks, effects, and ambient noise to immerse players. Audio designers also ensure sound syncs perfectly with gameplay events and environments.
+Roles: Technical Artist, Shader Artist, VFX Artist.
 
-### Game Design:
+### User Interface (UI) and User Experience (UX) Design:
+Designs the interface and ensures that players can easily interact with the game systems. UX designers focus on intuitive navigation and player satisfaction throughout the experience.
+Roles: Sound Designer, Audio Engineer, Composer, Voice Director.
 
-### Game Design:
+### Technical Artist:
+Acts as the bridge between creative art and technical programming, ensuring assets are optimized and functional. Technical artists troubleshoot visual issues and implement shaders and effects for stunning visuals.
+Roles: UI Designer, UX Researcher, Interaction Designer.
 
 ### Game Programming:
+
+
