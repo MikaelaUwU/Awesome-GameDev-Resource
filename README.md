@@ -43,6 +43,16 @@ SoundBible is a website offering a variety of free sound effects and royalty-fre
 
 ## Game Development Career Pathways
 
+### Game Design
+Description: Involves brainstorming and creating the concepts and mechanics that define the game. Game designers ensure the balance between challenge and engagement, crafting a memorable player experience.
+Roles: Game Designer, Level Designer, Systems Designer, Narrative Designer.
 
-## Common Game Industry Issues
+### Game Design:
 
+### Game Design:
+
+### Game Design:
+
+### Game Design:
+
+### Game Programming:
